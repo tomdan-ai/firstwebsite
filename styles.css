@@ -84,3 +84,88 @@ color: #7F8CFF;
     width: 170px;
     height: 20px;
 }
+
+.cards {
+    border: solid 1px #DFE1E6;
+    background-color: #FFFFFF;
+    width: 327px;
+height: 552px;
+opacity: 1;
+border-radius: 16px;
+border-width: 1px;
+padding: 16px;
+gap: 12px;
+margin: 50px;
+
+}
+
+.card-header {
+color: #172B4D;
+font-weight: 700;
+font-size: 32px;
+line-height: 44px;
+letter-spacing: 0%;
+}
+
+.card-tags {
+    display: flex;
+    gap: 20px;
+font-weight: 600;
+font-size: 13px;
+line-height: 16px;
+letter-spacing: 0%;
+color: #7A869A;
+margin-top: 20px;
+
+}
+
+
+.canopy {
+font-weight: 600;
+font-size: 13px;
+line-height: 16px;
+letter-spacing: 0%;
+color: #344563;
+list-style: none;
+}
+
+.card-content {
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+letter-spacing: 0%;
+/* width: 295px;
+height: 76px; */
+opacity: 1;
+margin-top: 20px;
+}
+
+.tech {
+    display: flex;
+    gap: 16px;
+    margin-top: 10px;
+}
+
+.tech-tags {
+    background-color: #EBEBFF;
+    border: solid 1px #EBEBFF;
+    border-radius: 16px;
+    padding: 5px;
+    color: #7F8CFF;
+}
+
+.see-project {
+    padding: 12px;
+    border-radius: 8px;
+    color: #396DF2;
+    background-color: #EBEBFF;
+    border: 1px solid #6070FF;
+    margin-top: 20px;
+font-weight: 500;
+font-size: 17px;
+line-height: 24px;
+letter-spacing: 3%;
+text-align: center;
+vertical-align: middle;
+
+}
